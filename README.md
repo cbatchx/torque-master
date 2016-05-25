@@ -1,4 +1,5 @@
 # torque-master
 
-
-docker run -it --net="host"
+```sh
+docker run -it --net="host" cbatchx/torque-master
+```
